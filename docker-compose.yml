@@ -1,0 +1,12 @@
+version: '2.0'
+services:
+  web:
+    image: spring-dotnet-parallels:webflux
+    ports:
+      - "8099:8080"
+  mongo-sample:
+    image: weshigbee/docker-mongo-sample-datasets
+    logging:
+      driver: none
+    ports:
+      - "27019:27017"

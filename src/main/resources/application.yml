@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: WARN
+    br.com.felipetvsouza: INFO
+    io.netty.util.internal: ERROR
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27019/test
