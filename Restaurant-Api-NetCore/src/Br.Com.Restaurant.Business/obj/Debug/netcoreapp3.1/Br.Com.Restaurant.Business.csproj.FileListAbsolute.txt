@@ -1,0 +1,17 @@
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.deps.json
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.dll
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.pdb
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.csprojAssemblyReference.cache
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.AssemblyInfoInputs.cache
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.AssemblyInfo.cs
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.dll
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.pdb
+C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.deps.json
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.dll
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\bin\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.pdb
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.AssemblyInfoInputs.cache
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.AssemblyInfo.cs
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.dll
+C:\Projetos\Br.Com.Restaurant\src\Br.Com.Restaurant.Business\obj\Debug\netcoreapp3.1\Br.Com.Restaurant.Business.pdb
