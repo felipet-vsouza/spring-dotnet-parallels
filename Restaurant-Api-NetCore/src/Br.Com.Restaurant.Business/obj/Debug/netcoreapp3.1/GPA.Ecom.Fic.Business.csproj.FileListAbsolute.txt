@@ -1,8 +1,0 @@
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.csproj.CoreCompileInputs.cache
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.AssemblyInfoInputs.cache
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.AssemblyInfo.cs
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.deps.json
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.dll
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\bin\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.pdb
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.dll
-C:\Projetos\GPA.Ecom.Fic.Api\src\GPA.Ecom.Fic.Business\obj\Debug\netcoreapp3.1\GPA.Ecom.Fic.Business.pdb
